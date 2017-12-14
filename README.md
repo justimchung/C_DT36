@@ -3,4 +3,6 @@
 
 天際線的概念比較不好懂，[這兒](http://justimchung.blogspot.tw/2016/12/blog-post_15.html) 有我寫的解說。
 
+底下是題目的說明
 
+![image](https://github.com/justimchung/C_DT36/blob/master/C_DT36.png)
